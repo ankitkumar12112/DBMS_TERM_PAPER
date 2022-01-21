@@ -1,0 +1,33 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+
+\title{TERM PAPER\\ DATABASE MANAGEMENT SYSTEMS}
+\author{Topic- Hospital Management System Using Web Technology\\ Name - Ankit Jhariya\\ Roll Number - 19111009\\ Semester- 6th\\ Branch- Biomedical Engineering}
+\date{January 21, 2022}
+
+
+
+\begin{document}
+
+\maketitle
+
+\section{Abstract}
+
+Today's web-based technology provides a plethora of online services in nearly every 
+industry. To get closer to the growing digital market, every vital sector is changing 
+and building a digital face for all of its core activities. In today's environment, 
+information flows at a breakneck pace, and duplicate measures will not benefit the 
+individual or organization that employs them. All well-organized and well-managed 
+enterprises today require online connectivity. One such industry is healthcare, where 
+information should be digitized quickly and effectively. This study targets that 
+specific area that sets the path for the development of software that facilitates the 
+transition from paper to electronic documents. The paper narrates an idea for a webbased platform that removes the requirement for paper instructions in hospitals and 
+suggests E-Medical Management, which will improve the efficiency of patient 
+management, doctor schedule management, and provide universal access to patient 
+data anywhere in the hospital.[1]\\ \\
+Keywords: Hospital Management; Database; Webpage; Interface
+
+
+
+
+\end{document}
